@@ -84,6 +84,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/dde6ff9d-2142-4dbb-ad69-833ded5e4e90" />
 
 
 
